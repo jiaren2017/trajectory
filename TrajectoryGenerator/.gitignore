@@ -1,0 +1,8 @@
+*.pyc
+flycheck*
+tmp*
+*tmp
+*__pychache__*
+docs/build/*
+.config.yml
+sillywalks/results/*

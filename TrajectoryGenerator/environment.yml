@@ -1,0 +1,23 @@
+name: TrajectoryGenerator
+dependencies:
+  # Necessary Packages
+  - python>=3.6
+  - numpy
+  - scipy
+  - matplotlib
+  - pillow # Instead of PIL (PIL doesn't like python3)
+  - conda-forge::wxpython
+  - h5py
+
+  ### Documentation
+  - sphinx
+  - sphinx_rtd_theme
+  - alabaster
+  - numpydoc
+  
+  - pip:
+      - pyyaml
+      - nose2
+
+  ### Fuer Batch-Jobs
+  - opencv

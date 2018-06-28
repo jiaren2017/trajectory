@@ -1,0 +1,128 @@
+{'spFeatIndex': 0,
+ 'spValue': 0.499171,
+ 
+ 'left': {'spFeatIndex': 0,                     0
+  'spValue': 0.457563,
+  'left': {'spFeatIndex': 0,                    1
+   'spValue': 0.126833,
+   'left': {'spFeatIndex': 0,                   2     
+    'spValue': 0.084661,
+    'left': {'spFeatIndex': 0,                  3        
+     'spValue': 0.044737,
+     'left': 4.091626,   (1)                    4
+     'right': -2.544392714285715},   [1]        4
+    'right': 6.509843285714284},  [2]
+   'right': {'spFeatIndex': 0,
+    'spValue': 0.373501,
+    'left': {'spFeatIndex': 0,                  
+     'spValue': 0.335182,
+     'left': {'spFeatIndex': 0,                 
+      'spValue': 0.324274,
+      'left': {'spFeatIndex': 0,                5
+       'spValue': 0.297107,
+       'left': {'spFeatIndex': 0,               6
+        'spValue': 0.166765,
+        'left': {'spFeatIndex': 0,              7
+         'spValue': 0.156067,
+         'left': -6.247900000000001, (2)        8
+         'right': -12.1079725},  [3]
+        'right': {'spFeatIndex': 0,
+         'spValue': 0.202161,
+         'left': 3.4496025,   (3)               
+         'right': {'spFeatIndex': 0,
+          'spValue': 0.217214,
+          'left': -11.822278500000001,  (4)     9
+          'right': {'spFeatIndex': 0,
+           'spValue': 0.228473,
+           'left': 6.770429,  (5)               10
+           'right': {'spFeatIndex': 0,
+            'spValue': 0.25807,
+            'left': -13.070501,  (6)                    11
+            'right': 0.40377471428571476}}}}},  [4]
+       'right': -19.9941552},  [5]
+      'right': 15.05929075},   [6]
+     'right': {'spFeatIndex': 0,
+      'spValue': 0.350725,
+      'left': -22.693879600000002,  (7)
+      'right': -15.08511175}},   [7]
+    'right': {'spFeatIndex': 0,
+     'spValue': 0.437652,
+     'left': {'spFeatIndex': 0,
+      'spValue': 0.412516,
+      'left': {'spFeatIndex': 0,
+       'spValue': 0.385021,
+       'left': 3.6584772500000016,   (8)
+       'right': -0.8923554999999995},  [8]
+      'right': 14.38417875},  [9]
+     'right': -12.558604833333334}}},  [10]
+  'right': {'spFeatIndex': 0,
+   'spValue': 0.467383,
+   'left': 3.4331330000000007,  (9)
+   'right': 12.50675925}}, [11]
+   
+   
+   
+ 'right': {'spFeatIndex': 0,                        0
+  'spValue': 0.729397,
+  'left': {'spFeatIndex': 0,                        1
+   'spValue': 0.640515,
+   'left': {'spFeatIndex': 0,                       2
+    'spValue': 0.613004,
+    'left': {'spFeatIndex': 0,                      3
+     'spValue': 0.582311,
+     'left': {'spFeatIndex': 0,                     4
+      'spValue': 0.553797,
+      'left': {'spFeatIndex': 0,                    5
+       'spValue': 0.51915,
+       'left': 101.73699325000001,   (10)           6
+       'right': {'spFeatIndex': 0,                  6
+        'spValue': 0.543843,                        
+         'left': 110.979946,   (11)                 7
+         'right': 109.38961049999999}}, [12]        7
+      'right': 97.20018024999999}, [13]
+     'right': 123.2101316},  [14]
+    'right': 93.67344971428572},  [15]
+   'right': {'spFeatIndex': 0,                      
+    'spValue': 0.666452,
+    'left': 114.1516242857143,  (12)
+    'right': {'spFeatIndex': 0,
+     'spValue': 0.706961,
+     'left': {'spFeatIndex': 0,
+      'spValue': 0.698472,
+      'left': 108.92921799999999,  (13)
+      'right': 104.82495374999999},  [16]
+     'right': 114.554706}}},  [17]
+  'right': {'spFeatIndex': 0,
+   'spValue': 0.952833,
+   'left': {'spFeatIndex': 0,
+    'spValue': 0.759504,
+    'left': 78.08564325,   (14)
+    'right': {'spFeatIndex': 0,
+     'spValue': 0.790312,
+     'left': 102.35780185714285,  (15)
+     'right': {'spFeatIndex': 0,
+      'spValue': 0.833026,
+      'left': {'spFeatIndex': 0,
+       'spValue': 0.811602,
+       'left': 88.78449880000001,   (16)
+       'right': 81.110152},   [18]
+      'right': {'spFeatIndex': 0,
+       'spValue': 0.944221,
+       'left': {'spFeatIndex': 0,
+        'spValue': 0.85497,
+        'left': 95.27584316666666,   (17)
+        'right': {'spFeatIndex': 0,
+         'spValue': 0.910975,
+         'left': {'spFeatIndex': 0,                 8
+          'spValue': 0.892999,
+          'left': {'spFeatIndex': 0,                9
+           'spValue': 0.872883,
+           'left': 102.25234449999999,  (18)        10
+           'right': 95.181793},  [19]               10
+          'right': 104.825409},  [20]
+         'right': 96.452867}},   [21]
+       'right': 87.3103875}}}},  [22] 
+   'right': {'spFeatIndex': 0,
+    'spValue': 0.958512,
+    'left': 112.42895575000001,   (19)
+    'right': 105.24862350000001}}}} [23]

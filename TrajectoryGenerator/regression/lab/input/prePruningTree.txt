@@ -1,0 +1,774 @@
+{'spFeatIndex': 0,
+ 'spValue': 0.499171,
+ 'left': {'spFeatIndex': 0,
+  'spValue': 0.457563,
+  'left': {'spFeatIndex': 0,
+   'spValue': 0.455761,
+   'left': {'spFeatIndex': 0,
+    'spValue': 0.126833,
+    'left': {'spFeatIndex': 0,
+     'spValue': 0.124723,
+     'left': {'spFeatIndex': 0,
+      'spValue': 0.085111,
+      'left': {'spFeatIndex': 0,
+       'spValue': 0.084661,
+       'left': {'spFeatIndex': 0,
+        'spValue': 0.080061,
+        'left': {'spFeatIndex': 0,
+         'spValue': 0.068373,
+         'left': {'spFeatIndex': 0,
+          'spValue': 0.061219,
+          'left': {'spFeatIndex': 0,
+           'spValue': 0.044737,
+           'left': {'spFeatIndex': 0,
+            'spValue': 0.028546,
+            'left': {'spFeatIndex': 0,
+             'spValue': 0.000256,
+             'left': 9.668106,
+             'right': -8.377094},
+            'right': {'spFeatIndex': 0,
+             'spValue': 0.039914,
+             'left': 11.220099,
+             'right': 3.855393}},
+           'right': {'spFeatIndex': 0,
+            'spValue': 0.053764,
+            'left': -13.731698,
+            'right': {'spFeatIndex': 0,
+             'spValue': 0.055862,
+             'left': -3.131497,
+             'right': 6.695567}}},
+          'right': -15.160836},
+         'right': {'spFeatIndex': 0,
+          'spValue': 0.079632,
+          'left': 29.420068,
+          'right': 2.229873}},
+        'right': -24.132226},
+       'right': 37.820659},
+      'right': {'spFeatIndex': 0,
+       'spValue': 0.108801,
+       'left': {'spFeatIndex': 0,
+        'spValue': 0.10796,
+        'left': {'spFeatIndex': 0,
+         'spValue': 0.085873,
+         'left': -10.137104,
+         'right': -1.293195},
+        'right': -16.106164},
+       'right': {'spFeatIndex': 0,
+        'spValue': 0.11515,
+        'left': 13.795828,
+        'right': -1.402796}}},
+     'right': 22.891675},
+    'right': {'spFeatIndex': 0,
+     'spValue': 0.130626,
+     'left': -39.524461,
+     'right': {'spFeatIndex': 0,
+      'spValue': 0.382037,
+      'left': {'spFeatIndex': 0,
+       'spValue': 0.335182,
+       'left': {'spFeatIndex': 0,
+        'spValue': 0.324274,
+        'left': {'spFeatIndex': 0,
+         'spValue': 0.309133,
+         'left': {'spFeatIndex': 0,
+          'spValue': 0.131833,
+          'left': 22.478291,
+          'right': {'spFeatIndex': 0,
+           'spValue': 0.138619,
+           'left': -29.087463,
+           'right': {'spFeatIndex': 0,
+            'spValue': 0.156067,
+            'left': {'spFeatIndex': 0,
+             'spValue': 0.13988,
+             'left': 7.336784,
+             'right': 7.557349},
+            'right': {'spFeatIndex': 0,
+             'spValue': 0.166765,
+             'left': {'spFeatIndex': 0,
+              'spValue': 0.156273,
+              'left': 0.225886,
+              'right': {'spFeatIndex': 0,
+               'spValue': 0.164134,
+               'left': -27.405211,
+               'right': {'spFeatIndex': 0,
+                'spValue': 0.166431,
+                'left': -6.512506,
+                'right': -14.740059}}},
+             'right': {'spFeatIndex': 0,
+              'spValue': 0.193282,
+              'left': {'spFeatIndex': 0,
+               'spValue': 0.176523,
+               'left': 0.946348,
+               'right': 18.208423},
+              'right': {'spFeatIndex': 0,
+               'spValue': 0.211633,
+               'left': {'spFeatIndex': 0,
+                'spValue': 0.202161,
+                'left': {'spFeatIndex': 0,
+                 'spValue': 0.199903,
+                 'left': -3.372472,
+                 'right': -1.983889},
+                'right': {'spFeatIndex': 0,
+                 'spValue': 0.203993,
+                 'left': -22.379119,
+                 'right': {'spFeatIndex': 0,
+                  'spValue': 0.206207,
+                  'left': -12.619036,
+                  'right': -8.332207}}},
+               'right': {'spFeatIndex': 0,
+                'spValue': 0.228473,
+                'left': {'spFeatIndex': 0,
+                 'spValue': 0.222271,
+                 'left': {'spFeatIndex': 0,
+                  'spValue': 0.218321,
+                  'left': {'spFeatIndex': 0,
+                   'spValue': 0.217214,
+                   'left': -3.958752,
+                   'right': 1.410768},
+                  'right': -9.255852},
+                 'right': {'spFeatIndex': 0,
+                  'spValue': 0.2232,
+                  'left': 15.501642,
+                  'right': 19.425158}},
+                'right': {'spFeatIndex': 0,
+                 'spValue': 0.25807,
+                 'left': {'spFeatIndex': 0,
+                  'spValue': 0.228628,
+                  'left': -2.266273,
+                  'right': {'spFeatIndex': 0,
+                   'spValue': 0.228751,
+                   'left': -30.812912,
+                   'right': {'spFeatIndex': 0,
+                    'spValue': 0.232802,
+                    'left': 1.222318,
+                    'right': -20.425137}}},
+                 'right': {'spFeatIndex': 0,
+                  'spValue': 0.284794,
+                  'left': {'spFeatIndex': 0,
+                   'spValue': 0.273863,
+                   'left': {'spFeatIndex': 0,
+                    'spValue': 0.264926,
+                    'left': {'spFeatIndex': 0,
+                     'spValue': 0.264639,
+                     'left': 2.557923,
+                     'right': 5.280579},
+                    'right': -9.457556},
+                   'right': 35.623746},
+                  'right': {'spFeatIndex': 0,
+                   'spValue': 0.300318,
+                   'left': {'spFeatIndex': 0,
+                    'spValue': 0.297107,
+                    'left': {'spFeatIndex': 0,
+                     'spValue': 0.295993,
+                     'left': {'spFeatIndex': 0,
+                      'spValue': 0.290749,
+                      'left': -14.391613,
+                      'right': -14.988279},
+                     'right': -1.798377},
+                    'right': -18.051318},
+                   'right': 8.814725}}}}}}}}}},
+         'right': {'spFeatIndex': 0,
+          'spValue': 0.310956,
+          'left': -49.939516,
+          'right': {'spFeatIndex': 0,
+           'spValue': 0.318309,
+           'left': -27.605424,
+           'right': -13.189243}}},
+        'right': {'spFeatIndex': 0,
+         'spValue': 0.32889,
+         'left': 39.783113,
+         'right': {'spFeatIndex': 0,
+          'spValue': 0.331364,
+          'left': -1.290825,
+          'right': {'spFeatIndex': 0,
+           'spValue': 0.3349,
+           'left': 18.97665,
+           'right': 2.768225}}}},
+       'right': {'spFeatIndex': 0,
+        'spValue': 0.370042,
+        'left': {'spFeatIndex': 0,
+         'spValue': 0.35679,
+         'left': {'spFeatIndex': 0,
+          'spValue': 0.350725,
+          'left': {'spFeatIndex': 0,
+           'spValue': 0.350065,
+           'left': {'spFeatIndex': 0,
+            'spValue': 0.342761,
+            'left': {'spFeatIndex': 0,
+             'spValue': 0.342155,
+             'left': {'spFeatIndex': 0,
+              'spValue': 0.3417,
+              'left': -23.547711,
+              'right': -16.930416},
+             'right': -31.584855},
+            'right': -1.319852},
+           'right': -40.086564},
+          'right': {'spFeatIndex': 0,
+           'spValue': 0.351478,
+           'left': -0.461116,
+           'right': -19.526539}},
+         'right': -32.124495},
+        'right': {'spFeatIndex': 0,
+         'spValue': 0.378965,
+         'left': {'spFeatIndex': 0,
+          'spValue': 0.373501,
+          'left': -8.228297,
+          'right': {'spFeatIndex': 0,
+           'spValue': 0.377383,
+           'left': 5.241196,
+           'right': 13.583555}},
+         'right': -29.007783}}},
+      'right': {'spFeatIndex': 0,
+       'spValue': 0.388789,
+       'left': {'spFeatIndex': 0,
+        'spValue': 0.385021,
+        'left': 24.816941,
+        'right': 21.578007},
+       'right': {'spFeatIndex': 0,
+        'spValue': 0.437652,
+        'left': {'spFeatIndex': 0,
+         'spValue': 0.412516,
+         'left': {'spFeatIndex': 0,
+          'spValue': 0.403228,
+          'left': {'spFeatIndex': 0,
+           'spValue': 0.391609,
+           'left': 3.001104,
+           'right': -1.729244},
+          'right': -26.419289},
+         'right': {'spFeatIndex': 0,
+          'spValue': 0.418943,
+          'left': 44.161493,
+          'right': {'spFeatIndex': 0,
+           'spValue': 0.426711,
+           'left': -21.594268,
+           'right': {'spFeatIndex': 0,
+            'spValue': 0.428582,
+            'left': 15.224266,
+            'right': 19.745224}}}},
+        'right': {'spFeatIndex': 0,
+         'spValue': 0.454312,
+         'left': {'spFeatIndex': 0,
+          'spValue': 0.446196,
+          'left': -5.108172,
+          'right': {'spFeatIndex': 0,
+           'spValue': 0.451087,
+           'left': -28.724685,
+           'right': -20.360067}},
+         'right': {'spFeatIndex': 0,
+          'spValue': 0.454375,
+          'left': 3.043912,
+          'right': 9.841938}}}}}}},
+   'right': -34.044555},
+  'right': {'spFeatIndex': 0,
+   'spValue': 0.465561,
+   'left': {'spFeatIndex': 0,
+    'spValue': 0.463241,
+    'left': 17.171057,
+    'right': 30.051931},
+   'right': {'spFeatIndex': 0,
+    'spValue': 0.467383,
+    'left': {'spFeatIndex': 0,
+     'spValue': 0.46568,
+     'left': -23.777531,
+     'right': -9.712925},
+    'right': {'spFeatIndex': 0,
+     'spValue': 0.483803,
+     'left': 5.224234,
+     'right': {'spFeatIndex': 0,
+      'spValue': 0.487381,
+      'left': 27.729263,
+      'right': {'spFeatIndex': 0,
+       'spValue': 0.487537,
+       'left': 5.149336,
+       'right': 11.924204}}}}}},
+ 'right': {'spFeatIndex': 0,
+  'spValue': 0.729397,
+  'left': {'spFeatIndex': 0,
+   'spValue': 0.640515,
+   'left': {'spFeatIndex': 0,
+    'spValue': 0.613004,
+    'left': {'spFeatIndex': 0,
+     'spValue': 0.606417,
+     'left': {'spFeatIndex': 0,
+      'spValue': 0.513332,
+      'left': {'spFeatIndex': 0,
+       'spValue': 0.508548,
+       'left': {'spFeatIndex': 0,
+        'spValue': 0.508542,
+        'left': 96.403373,
+        'right': 93.292829},
+       'right': 101.075609},
+      'right': {'spFeatIndex': 0,
+       'spValue': 0.533511,
+       'left': {'spFeatIndex': 0,
+        'spValue': 0.51915,
+        'left': 116.176162,
+        'right': {'spFeatIndex': 0,
+         'spValue': 0.531944,
+         'left': 124.795495,
+         'right': 129.766743}},
+       'right': {'spFeatIndex': 0,
+        'spValue': 0.548539,
+        'left': {'spFeatIndex': 0,
+         'spValue': 0.546601,
+         'left': {'spFeatIndex': 0,
+          'spValue': 0.537834,
+          'left': 90.995536,
+          'right': {'spFeatIndex': 0,
+           'spValue': 0.543843,
+           'left': 98.36201,
+           'right': 96.319043}},
+         'right': 83.114502},
+        'right': {'spFeatIndex': 0,
+         'spValue': 0.553797,
+         'left': {'spFeatIndex': 0,
+          'spValue': 0.549814,
+          'left': 137.267576,
+          'right': 120.857321},
+         'right': {'spFeatIndex': 0,
+          'spValue': 0.560301,
+          'left': 82.903945,
+          'right': {'spFeatIndex': 0,
+           'spValue': 0.599142,
+           'left': {'spFeatIndex': 0,
+            'spValue': 0.589806,
+            'left': {'spFeatIndex': 0,
+             'spValue': 0.582311,
+             'left': {'spFeatIndex': 0,
+              'spValue': 0.571214,
+              'left': {'spFeatIndex': 0,
+               'spValue': 0.569327,
+               'left': 108.435392,
+               'right': 114.872056},
+              'right': 82.589328},
+             'right': {'spFeatIndex': 0,
+              'spValue': 0.585413,
+              'left': 125.295113,
+              'right': 98.674874}},
+            'right': 130.378529},
+           'right': 93.521396}}}}}},
+     'right': 168.180746},
+    'right': {'spFeatIndex': 0,
+     'spValue': 0.623909,
+     'left': {'spFeatIndex': 0,
+      'spValue': 0.618868,
+      'left': 76.917665,
+      'right': 87.181863},
+     'right': {'spFeatIndex': 0,
+      'spValue': 0.628061,
+      'left': {'spFeatIndex': 0,
+       'spValue': 0.624827,
+       'left': 105.970743,
+       'right': 117.628346},
+      'right': {'spFeatIndex': 0,
+       'spValue': 0.637999,
+       'left': {'spFeatIndex': 0,
+        'spValue': 0.632691,
+        'left': 93.645293,
+        'right': 91.656617},
+       'right': 82.713621}}}},
+   'right': {'spFeatIndex': 0,
+    'spValue': 0.642373,
+    'left': 140.613941,
+    'right': {'spFeatIndex': 0,
+     'spValue': 0.642707,
+     'left': 82.500766,
+     'right': {'spFeatIndex': 0,
+      'spValue': 0.665329,
+      'left': {'spFeatIndex': 0,
+       'spValue': 0.661073,
+       'left': {'spFeatIndex': 0,
+        'spValue': 0.652462,
+        'left': 112.715799,
+        'right': 115.687524},
+       'right': 121.980607},
+      'right': {'spFeatIndex': 0,
+       'spValue': 0.706961,
+       'left': {'spFeatIndex': 0,
+        'spValue': 0.698472,
+        'left': {'spFeatIndex': 0,
+         'spValue': 0.689099,
+         'left': {'spFeatIndex': 0,
+          'spValue': 0.666452,
+          'left': {'spFeatIndex': 0,
+           'spValue': 0.665652,
+           'left': 105.547997,
+           'right': 120.014736},
+          'right': {'spFeatIndex': 0,
+           'spValue': 0.667851,
+           'left': 92.449664,
+           'right': {'spFeatIndex': 0,
+            'spValue': 0.680486,
+            'left': 110.367074,
+            'right': 112.378209}}},
+         'right': 120.521925},
+        'right': {'spFeatIndex': 0,
+         'spValue': 0.69892,
+         'left': 92.470636,
+         'right': {'spFeatIndex': 0,
+          'spValue': 0.699873,
+          'left': 115.586605,
+          'right': {'spFeatIndex': 0,
+           'spValue': 0.70639,
+           'left': 105.062147,
+           'right': 106.180427}}}},
+       'right': {'spFeatIndex': 0,
+        'spValue': 0.70889,
+        'left': 135.416767,
+        'right': {'spFeatIndex': 0,
+         'spValue': 0.716211,
+         'left': {'spFeatIndex': 0,
+          'spValue': 0.710234,
+          'left': 108.553919,
+          'right': 103.345308},
+         'right': 110.90283}}}}}}},
+  'right': {'spFeatIndex': 0,
+   'spValue': 0.952833,
+   'left': {'spFeatIndex': 0,
+    'spValue': 0.759504,
+    'left': {'spFeatIndex': 0,
+     'spValue': 0.740859,
+     'left': {'spFeatIndex': 0,
+      'spValue': 0.731636,
+      'left': 73.912028,
+      'right': 93.773929},
+     'right': {'spFeatIndex': 0,
+      'spValue': 0.757527,
+      'left': 63.549854,
+      'right': 81.106762}},
+    'right': {'spFeatIndex': 0,
+     'spValue': 0.763328,
+     'left': 115.199195,
+     'right': {'spFeatIndex': 0,
+      'spValue': 0.769043,
+      'left': 64.041941,
+      'right': {'spFeatIndex': 0,
+       'spValue': 0.790312,
+       'left': {'spFeatIndex': 0,
+        'spValue': 0.786865,
+        'left': {'spFeatIndex': 0,
+         'spValue': 0.785574,
+         'left': {'spFeatIndex': 0,
+          'spValue': 0.777582,
+          'left': 100.838446,
+          'right': 107.024467},
+         'right': 100.598825},
+        'right': {'spFeatIndex': 0,
+         'spValue': 0.787755,
+         'left': 118.642009,
+         'right': 110.15973}},
+       'right': {'spFeatIndex': 0,
+        'spValue': 0.806158,
+        'left': {'spFeatIndex': 0,
+         'spValue': 0.799873,
+         'left': {'spFeatIndex': 0,
+          'spValue': 0.798198,
+          'left': 76.853728,
+          'right': 91.368473},
+         'right': 62.877698},
+        'right': {'spFeatIndex': 0,
+         'spValue': 0.815215,
+         'left': {'spFeatIndex': 0,
+          'spValue': 0.811602,
+          'left': {'spFeatIndex': 0,
+           'spValue': 0.811363,
+           'left': 112.981216,
+           'right': 99.841379},
+          'right': 118.319942},
+         'right': {'spFeatIndex': 0,
+          'spValue': 0.833026,
+          'left': {'spFeatIndex': 0,
+           'spValue': 0.823848,
+           'left': {'spFeatIndex': 0,
+            'spValue': 0.819722,
+            'left': 70.054508,
+            'right': 59.342323},
+           'right': 76.723835},
+          'right': {'spFeatIndex': 0,
+           'spValue': 0.841547,
+           'left': {'spFeatIndex': 0,
+            'spValue': 0.838587,
+            'left': 134.089674,
+            'right': 115.669032},
+           'right': {'spFeatIndex': 0,
+            'spValue': 0.841625,
+            'left': 60.552308,
+            'right': {'spFeatIndex': 0,
+             'spValue': 0.944221,
+             'left': {'spFeatIndex': 0,
+              'spValue': 0.85497,
+              'left': {'spFeatIndex': 0,
+               'spValue': 0.84294,
+               'left': 95.893131,
+               'right': {'spFeatIndex': 0,
+                'spValue': 0.847219,
+                'left': 76.240984,
+                'right': 89.20993}},
+              'right': {'spFeatIndex': 0,
+               'spValue': 0.936524,
+               'left': {'spFeatIndex': 0,
+                'spValue': 0.934853,
+                'left': {'spFeatIndex': 0,
+                 'spValue': 0.925782,
+                 'left': {'spFeatIndex': 0,
+                  'spValue': 0.910975,
+                  'left': {'spFeatIndex': 0,
+                   'spValue': 0.901444,
+                   'left': {'spFeatIndex': 0,
+                    'spValue': 0.901421,
+                    'left': {'spFeatIndex': 0,
+                     'spValue': 0.892999,
+                     'left': {'spFeatIndex': 0,
+                      'spValue': 0.888426,
+                      'left': {'spFeatIndex': 0,
+                       'spValue': 0.872199,
+                       'left': {'spFeatIndex': 0,
+                        'spValue': 0.866451,
+                        'left': {'spFeatIndex': 0,
+                         'spValue': 0.856421,
+                         'left': 107.166848,
+                         'right': 94.402102},
+                        'right': 111.552716},
+                       'right': {'spFeatIndex': 0,
+                        'spValue': 0.883615,
+                        'left': {'spFeatIndex': 0,
+                         'spValue': 0.872883,
+                         'left': 95.887712,
+                         'right': 95.348184},
+                        'right': {'spFeatIndex': 0,
+                         'spValue': 0.885676,
+                         'left': 108.045948,
+                         'right': 94.896354}}},
+                      'right': 82.436686},
+                     'right': {'spFeatIndex': 0,
+                      'spValue': 0.900699,
+                      'left': {'spFeatIndex': 0,
+                       'spValue': 0.896683,
+                       'left': 107.00162,
+                       'right': 109.188248},
+                      'right': 100.133819}},
+                    'right': 87.300625},
+                   'right': {'spFeatIndex': 0,
+                    'spValue': 0.908629,
+                    'left': 118.513475,
+                    'right': 106.814667}},
+                  'right': {'spFeatIndex': 0,
+                   'spValue': 0.912161,
+                   'left': 85.005351,
+                   'right': {'spFeatIndex': 0,
+                    'spValue': 0.915263,
+                    'left': 96.71761,
+                    'right': 92.074619}}},
+                 'right': 115.753994},
+                'right': 65.548418},
+               'right': {'spFeatIndex': 0,
+                'spValue': 0.937766,
+                'left': 119.949824,
+                'right': 100.120253}}},
+             'right': {'spFeatIndex': 0,
+              'spValue': 0.948822,
+              'left': 69.318649,
+              'right': {'spFeatIndex': 0,
+               'spValue': 0.949198,
+               'left': 105.752508,
+               'right': {'spFeatIndex': 0,
+                'spValue': 0.952377,
+                'left': 73.520802,
+                'right': 100.649591}}}}}}}}}}}}},
+   'right': {'spFeatIndex': 0,
+    'spValue': 0.965969,
+    'left': {'spFeatIndex': 0,
+     'spValue': 0.956951,
+     'left': {'spFeatIndex': 0,
+      'spValue': 0.953902,
+      'left': 130.92648,
+      'right': {'spFeatIndex': 0,
+       'spValue': 0.954711,
+       'left': 100.935789,
+       'right': 82.016541}},
+     'right': {'spFeatIndex': 0,
+      'spValue': 0.958512,
+      'left': 135.837013,
+      'right': {'spFeatIndex': 0,
+       'spValue': 0.960398,
+       'left': 123.559747,
+       'right': 112.386764}}},
+    'right': {'spFeatIndex': 0,
+     'spValue': 0.968621,
+     'left': 98.648346,
+     'right': 86.399637}}}}}
+     
+     
+     merging, tree['spFeatIndex']: 0, tree['spValue']:0.000256, tree['left']:9.668106, tree['right']:-8.377094
+treeMean: 0.6455060000000001
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.039914, tree['left']:11.220099, tree['right']:3.855393
+treeMean: 7.537745999999999
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.028546, tree['left']:0.6455060000000001, tree['right']:7.537745999999999
+treeMean: 4.091626
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.079632, tree['left']:29.420068, tree['right']:2.229873
+treeMean: 15.824970500000001
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.11515, tree['left']:13.795828, tree['right']:-1.402796
+treeMean: 6.196516
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.176523, tree['left']:0.946348, tree['right']:18.208423
+treeMean: 9.5773855
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.199903, tree['left']:-3.372472, tree['right']:-1.983889
+treeMean: -2.6781805
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.217214, tree['left']:-3.958752, tree['right']:1.410768
+treeMean: -1.273992
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.218321, tree['left']:-1.273992, tree['right']:-9.255852
+treeMean: -5.264922
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.2232, tree['left']:15.501642, tree['right']:19.425158
+treeMean: 17.4634
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.222271, tree['left']:-5.264922, tree['right']:17.4634
+treeMean: 6.099239
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.232802, tree['left']:1.222318, tree['right']:-20.425137
+treeMean: -9.601409499999999
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.318309, tree['left']:-27.605424, tree['right']:-13.189243
+treeMean: -20.3973335
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.351478, tree['left']:-0.461116, tree['right']:-19.526539
+treeMean: -9.9938275
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.385021, tree['left']:24.816941, tree['right']:21.578007
+treeMean: 23.197474
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.391609, tree['left']:3.001104, tree['right']:-1.729244
+treeMean: 0.6359300000000001
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.451087, tree['left']:-28.724685, tree['right']:-20.360067
+treeMean: -24.542376
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.446196, tree['left']:-5.108172, tree['right']:-24.542376
+treeMean: -14.825274
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.454312, tree['left']:-14.825274, tree['right']:6.442925000000001
+treeMean: -4.1911745
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.487537, tree['left']:5.149336, tree['right']:11.924204
+treeMean: 8.53677
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.549814, tree['left']:137.267576, tree['right']:120.857321
+treeMean: 129.0624485
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.585413, tree['left']:125.295113, tree['right']:98.674874
+treeMean: 111.9849935
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.618868, tree['left']:76.917665, tree['right']:87.181863
+treeMean: 82.04976400000001
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.680486, tree['left']:110.367074, tree['right']:112.378209
+treeMean: 111.3726415
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.667851, tree['left']:92.449664, tree['right']:111.3726415
+treeMean: 101.91115275
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.757527, tree['left']:63.549854, tree['right']:81.106762
+treeMean: 72.328308
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.740859, tree['left']:83.8429785, tree['right']:72.328308
+treeMean: 78.08564325
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.777582, tree['left']:100.838446, tree['right']:107.024467
+treeMean: 103.9314565
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.785574, tree['left']:103.9314565, tree['right']:100.598825
+treeMean: 102.26514075
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.798198, tree['left']:76.853728, tree['right']:91.368473
+treeMean: 84.11110049999999
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.799873, tree['left']:84.11110049999999, tree['right']:62.877698
+treeMean: 73.49439925
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.838587, tree['left']:134.089674, tree['right']:115.669032
+treeMean: 124.87935300000001
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.856421, tree['left']:107.166848, tree['right']:94.402102
+treeMean: 100.784475
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.866451, tree['left']:100.784475, tree['right']:111.552716
+treeMean: 106.16859550000001
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.872883, tree['left']:95.887712, tree['right']:95.348184
+treeMean: 95.617948
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.885676, tree['left']:108.045948, tree['right']:94.896354
+treeMean: 101.47115099999999
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.883615, tree['left']:95.617948, tree['right']:101.47115099999999
+treeMean: 98.54454949999999
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.896683, tree['left']:107.00162, tree['right']:109.188248
+treeMean: 108.094934
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.915263, tree['left']:96.71761, tree['right']:92.074619
+treeMean: 94.3961145
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.937766, tree['left']:119.949824, tree['right']:100.120253
+treeMean: 110.03503850000001
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.952377, tree['left']:73.520802, tree['right']:100.649591
+treeMean: 87.0851965
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.949198, tree['left']:105.752508, tree['right']:87.0851965
+treeMean: 96.41885225
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.953902, tree['left']:130.92648, tree['right']:91.47616500000001
+treeMean: 111.2013225
+
+
+merging, tree['spFeatIndex']: 0, tree['spValue']:0.968621, tree['left']:98.648346, tree['right']:86.399637
+treeMean: 92.5239915
